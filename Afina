@@ -1,0 +1,74 @@
+{
+  "title": "Birth of Athena",
+  "steps": [
+    {
+      "type": "scene",
+      "image": "zeus_thinks",
+      "text": "Zeus began to suffer from a terrible headache. To find relief, he asked Hephaestus to split his head open."
+    },
+    {
+      "type": "scene",
+      "image": "athena_birth",
+      "text": "From the split in Zeus’s head sprang Athena, fully grown and dressed in armor, stunning all who witnessed her birth."
+    },
+    {
+      "type": "quiz",
+      "image": "athena_armor",
+      "question": "Why was Athena born from Zeus's head?",
+      "options": [
+        { "text": "Because Zeus swallowed her mother Metis", "isCorrect": true },
+        { "text": "Because he wanted a warrior son", "isCorrect": false },
+        { "text": "Because of a prophecy about a goddess", "isCorrect": false },
+        { "text": "Because Hera cursed him", "isCorrect": false }
+      ]
+    },
+    {
+      "type": "scene",
+      "image": "athena_wisdom",
+      "text": "Athena became the goddess of wisdom, war strategy, and crafts. She was respected by gods and mortals alike."
+    },
+    {
+      "type": "quiz",
+      "image": "wisdom_symbol",
+      "question": "What animal is often associated with Athena?",
+      "options": [
+        { "text": "Owl", "isCorrect": true },
+        { "text": "Horse", "isCorrect": false },
+        { "text": "Snake", "isCorrect": false },
+        { "text": "Eagle", "isCorrect": false }
+      ]
+    },
+    {
+      "type": "scene",
+      "image": "athena_parthenon",
+      "text": "A great temple, the Parthenon, was built in Athens to honor Athena as the city's protector."
+    },
+    {
+      "type": "quiz",
+      "image": "athena_challenge",
+      "question": "Which of these qualities best describe Athena?",
+      "options": [
+        { "text": "Wisdom and warfare", "isCorrect": true },
+        { "text": "Love and beauty", "isCorrect": false },
+        { "text": "Chaos and trickery", "isCorrect": false },
+        { "text": "Sea and storms", "isCorrect": false }
+      ]
+    },
+    {
+      "type": "quiz",
+      "image": "metis_prophecy",
+      "question": "Who was Metis, Athena's mother?",
+      "options": [
+        { "text": "The goddess of wisdom whom Zeus feared would bear a son stronger than him", "isCorrect": true, "crystalType": "red" },
+        { "text": "A sea nymph who ruled the oceans", "isCorrect": false },
+        { "text": "The titaness of the moon", "isCorrect": false },
+        { "text": "The sister of Hera", "isCorrect": false }
+      ]
+    },
+    {
+      "type": "scene",
+      "image": "athena_finale",
+      "text": "Thus, Athena’s birth marked a divine moment of power, wisdom, and destiny in Olympus."
+    }
+  ]
+}
