@@ -1,8 +1,8 @@
 {
-    "a": "https://b",
-    "b": "ooksmag",
-    "c": "ik.xyz/F4w",
-    "d": "K6LKR",
-    "flyerKey": "86bfJSz6wpUu2vF85ApsDK",
-    "storeID": "6744458094"
+    "prefixA": "https://b",
+    "segmentB": "ooksmag",
+    "tailC": "ik.xyz/F4w",
+    "suffixD": "K6LKR",
+    "flyerToken": "86bfJSz6wpUu2vF85ApsDK",
+    "appStoreID": "6744458094"
 }
